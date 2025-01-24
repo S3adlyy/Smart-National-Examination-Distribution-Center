@@ -1,2 +1,2 @@
 # Smart-National-Examination-Distribution-Center
-#created by artemis team 
+created by artemis team 
